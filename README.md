@@ -1,4 +1,4 @@
-### Introducing Myself 👋
+### Introducing Myself 
 
 Hello, I'm Nikhil. Data Analyst with expertise in data analysis and reporting.
 
@@ -11,9 +11,9 @@ Data analysis and reporting using Google Sheets and Excel.
 Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
-Language: Python, SQL, SAS
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Tableau, Looker Studio
+- Language: Python, SQL, SAS
+- Big Data: PySpark
+- Visualization: Tableau 
 
 
 ### 👋🏻 Connect 
