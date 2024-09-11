@@ -12,8 +12,8 @@ Welcome to my portfolio, where I showcase my projects.
 - FIFA Football Dataset - EDA 
 - House Price Prediction - Regression
 - Credit Card Fraud Detection - Classifiation with Imbalanced data
-- News Article Topic - Clustering
-- Market Basket Analysis - Association Rule
+- News Article Topics - Clustering
+- Market Basket Analysis - Association Rule Mining
 - Earthquake Dataset Analysis - Geographical Dataset
 - Twitter Sentiment Analysis - Webscraping and NLP
 - Customer Segmentation -Multiclass Classification 
