@@ -9,6 +9,17 @@ Data analysis and reporting using Google Sheets and Excel.
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
+- FIFA Football Dataset - EDA 
+- House Price Prediction - Regression
+- Credit Card Fraud Detection - Classifiation with Imbalanced data
+- News Article Topic - Clustering
+- Market Basket Analysis - Association Rule
+- Earthquake Dataset Analysis - Geographical Dataset
+- Twitter Sentiment Analysis - Webscraping and NLP
+- Customer Segmentation -Multiclass Classification 
+- Credit Risk Modelling
+- Factors Influencing Cigarette Consumption - Poisson Regression (Count Data)
+- Determinants of Childhood Immunization - Logistic Regression (Categorical Data)
 
 ### 🛠️ Tools
 - Language: Python, SQL, SAS
