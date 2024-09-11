@@ -20,6 +20,7 @@ Welcome to my portfolio, where I showcase my projects.
 - Credit Risk Modelling
 - Factors Influencing Cigarette Consumption - Poisson Regression (Count Data)
 - Determinants of Childhood Immunization - Logistic Regression (Categorical Data)
+- Relationship of Commodity Prices - Time Series
 
 ### 🛠️ Tools
 - Language: Python, SQL, SAS
@@ -28,6 +29,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 
 ### 👋🏻 Connect 
-Linkedin
+Linkedin : https://www.linkedin.com/in/nikhil-nanda-b68856113/
+Email : nikhil.nanda24@gmail.com
 
 
